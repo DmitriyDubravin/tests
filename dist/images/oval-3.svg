@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="602" height="602"
+     viewBox="0 0 602 602">
+    <defs>
+        <path id="a"
+              d="M340 2939c0-165.69 134.31-300 300-300s300 134.31 300 300-134.31 300-300 300-300-134.31-300-300z"/>
+    </defs>
+    <g transform="translate(-339 -2638)">
+        <use fill="#fff" xlink:href="#a"/>
+        <use fill="#fff" fill-opacity="0" stroke="#16161d" stroke-dasharray=".8 7.2" stroke-miterlimit="50"
+             stroke-width=".8" xlink:href="#a"/>
+    </g>
+</svg>
